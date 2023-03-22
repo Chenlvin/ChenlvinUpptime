@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.chenlvin.cc.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "89.90%",
-    "uptimeDay": "89.90%",
-    "uptimeWeek": "89.90%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "89.90%",
+    "uptime": "92.02%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "92.02%",
     "time": 1317,
     "timeDay": 1317,
     "timeWeek": 1317,
@@ -24,19 +24,19 @@
     "url": "https://api.chenlvin.cc",
     "icon": "https://icons.duckduckgo.com/ip3/api.chenlvin.cc.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "89.81%",
-    "uptimeDay": "89.81%",
-    "uptimeWeek": "89.81%",
-    "uptimeMonth": "89.81%",
-    "uptimeYear": "89.81%",
+    "status": "down",
+    "uptime": "92.91%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "92.91%",
+    "uptimeMonth": "92.91%",
+    "uptimeYear": "92.91%",
     "time": 1900,
     "timeDay": 1900,
     "timeWeek": 1900,
     "timeMonth": 1900,
     "timeYear": 1900,
     "dailyMinutesDown": {
-      "2023-03-22": 66
+      "2023-03-22": 56
     }
   }
 ]
