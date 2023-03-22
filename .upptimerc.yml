@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "站点运行状态"
-  introMessage: 由于监测服务器为Github，Ping数值不准确
+  introMessage: 由于监测服务器为Github，Ping数值可能不准确
   navbar:
     - title: 监测站
       href: /
