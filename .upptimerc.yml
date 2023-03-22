@@ -18,10 +18,10 @@ status-website:
   introTitle: "站点运行状态"
   introMessage: 由于监测服务器为Github，Ping数值不准确
   navbar:
-    - title: Status
+    - title: 监测站
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 博客
+      href: https://blog.chenlvin.cc
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
